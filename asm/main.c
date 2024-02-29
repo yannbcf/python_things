@@ -1,6 +1,6 @@
 #include <stdio.h>
 
 int main() {
-    printf("28th of September at Ziwit\n");
+    printf("Welcome Julien to Rockstar Games!\n");
     return 0;
 }

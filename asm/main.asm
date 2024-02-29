@@ -3,7 +3,7 @@ extern  WriteFile
 extern  ExitProcess
 
 section .rodata
-msg db "28th of September at Ziwit", 0x0d, 0x0a
+msg db "Welcome Julien to Rockstar Games!", 0x0d, 0x0a
 msg_len equ $-msg
 stdout_query equ -11
 
